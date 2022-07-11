@@ -27,6 +27,20 @@
     </a>
 </p>
 <!--
+Github WidgetBox
+-->
+<p align="center">
+ <h2 align="center">
+ </h2>
+ <p align="center">
+  Github WidgetBox
+ </p>
+</p>
+
+<p align="center">
+ <img src="https://github-widgetbox.vercel.app/api/profile?username=omg-xtao&data=followers,repositories,stars,commits" align="center" alt="Stats" />
+</p>
+<!--
 Github Stats
 -->
 <p align="center">
@@ -38,7 +52,8 @@ Github Stats
 </p>
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=omg-xtao&count_private=true&show_icons=true&line_height=20" align="center" alt="Stats" />
+ <img src="https://github-readme-stats.vercel.app/api?username=omg-xtao&count_private=true&show_icons=true&line_height=46" align="center" alt="Stats" />
+ <img src="https://github-contribution-stats.vercel.app/api/?username=omg-xtao" align="center" alt="Stats" />
 </p>
 <!--
 Top Langs
