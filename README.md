@@ -69,6 +69,9 @@ Top Langs
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omg-xtao&layout=compact&langs_count=8&card_width=445" align="center" alt="labgs" />
 </p>
+<p align="center">
+ <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=omg-xtao" />
+</p>
 <!--
 Github Activity
 -->
