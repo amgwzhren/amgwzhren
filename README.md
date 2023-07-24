@@ -19,7 +19,7 @@
     <a href="https://afdian.net/@xtaodada">
       <img src="https://img.shields.io/badge/%F0%9F%94%8B-%E7%88%B1%E5%8F%91%E7%94%B5-gray.svg?colorA=FF5733&colorB=FF9633&style=for-the-badge"/>
     </a>
-    <a href="https://t.me/mrwangzhe">
+    <a href="https://t.me/omg_xtao">
       <img src="https://img.shields.io/badge/%E2%9C%88%EF%B8%8F-mrwangzhe-gray.svg?colorA=33C6FF&colorB=3395FF&style=for-the-badge"/>
     </a>
     <a href="https://t.me/joinchat/Ver2ddjF4rwcPF9B">
@@ -84,5 +84,5 @@ Github Activity
 </p>
 
 <p align="center">
- <img src="https://activity-graph.herokuapp.com/graph?username=omg-xtao&theme=xcode" align="center" alt="Github Activity" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=omg-xtao&theme=xcode" align="center" alt="Github Activity" />
 </p>
